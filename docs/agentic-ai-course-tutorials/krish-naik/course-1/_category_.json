@@ -1,0 +1,8 @@
+{
+  "label": "Course-1",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Building AI Agents & Agentic AI System via Microsoft Autogen"
+  }
+}
